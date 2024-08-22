@@ -1,4 +1,4 @@
-# Jayson sme_project1
+# Jayson sme_project2
 
 ## Table of contents
 
@@ -26,8 +26,8 @@ Your users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL](https://github.com/JAYSONRK/sme_project1)
-- Live Site URL: [live site URL](https://jaysonrk.github.io/sme_project1/)
+- Solution URL: [solution URL](https://github.com/JAYSONRK/sme_project2)
+- Live Site URL: [live site URL](https://jaysonrk.github.io/sme_project2/)
 
 
 ### Built with
